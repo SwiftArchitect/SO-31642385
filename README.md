@@ -3,7 +3,8 @@
 ---
 
 ### Stack Overflow Question 31642385
-Xcode project & source code related to [No Bridging-Header when Importing External Frameworks](http://stackoverflow.com/a/31668047/218152) anwser.
+
+Xcode project & source code related to [No Bridging-Header when Importing External Frameworks](https://stackoverflow.com/questions/31642385/why-am-i-getting-an-undeclared-type-pubnub-compiler-error-with-swift-cocoa-app/31668047#31668047) answer.
 
 ---
 
@@ -15,6 +16,6 @@ Xcode project & source code related to [No Bridging-Header when Importing Extern
 
 **References:**
 
-- SO-31642385 on [Stack Overflow](http://stackoverflow.com/questions/31642385/why-am-i-getting-an-undeclared-type-pubnub-compiler-error-with-swift-cocoa-app)
+- Question [31642385](https://stackoverflow.com/questions/31642385) on Stack Overflow
 - This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
 
